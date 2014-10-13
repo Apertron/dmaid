@@ -1,8 +1,9 @@
 {
-	"name": "dmaid",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2014, zack",
-	"authors": ["zack"],
-	"dependencies": {
-	}
+  "name": "dmaid",
+  "description": "D application for cleaning up home directories.",
+  "copyright": "Copyright © 2014, zack",
+  "authors": ["zackp30"],
+  "dependencies": {
+    "docopt": ">=0.6.1-b.1"
+  }
 }
