@@ -1,0 +1,8 @@
+{
+	"name": "dmaid",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, zack",
+	"authors": ["zack"],
+	"dependencies": {
+	}
+}
