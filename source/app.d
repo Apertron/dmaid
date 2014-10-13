@@ -1,6 +1,11 @@
 import std.stdio;
 
+
+void run() {
+}
+
 int main(string[] args) {
-  writeln("Hello world!");
+  if (args[1] == "run")
+    run();
   return 0;
 }

@@ -1,0 +1,3 @@
+Please install pre-commit from http://pre-commit.com/ before commiting to this repository, this ensures the code base is clean.
+
+Bug reports/patches/concerns/questions/requests should go to the mailing list: apertron-dmaid@lists.apertron.net
